@@ -10,8 +10,9 @@ Aprender más cada día y utilizar ese conocimiento para inspirar y educar a otr
 ## Intereses 🌱
 Me atraen los proyectos educativos y tecnológicos que buscan hacer del aprendizaje algo divertido y accesible. Si tienes ideas o proyectos en esta línea, ¡me encantaría colaborar contigo!
 
-[linkedin](https://www.linkedin.com/in/vic-vigueras/)
-[Perfil de DEV.F](https://edu.devf.la/public/vico-vigueras-018bd1870)
+[💼 linkedin](https://www.linkedin.com/in/vic-vigueras/)
+
+[💻 Perfil de DEV.F](https://edu.devf.la/public/vico-vigueras-018bd1870)
 
 <!--
 **vviguerashd/vviguerashd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
