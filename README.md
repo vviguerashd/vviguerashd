@@ -14,6 +14,9 @@ Me atraen los proyectos educativos y tecnológicos que buscan hacer del aprendiz
 
 [💻 Perfil de DEV.F](https://edu.devf.la/public/vico-vigueras-018bd1870)
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@vicvigueras/30-nites-of-code)  
+  ![@vicvigueras #30NitesOfCode](https://www.codedex.io/api/petStatus?user=vicvigueras)
 <!--
 **vviguerashd/vviguerashd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
