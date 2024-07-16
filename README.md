@@ -1,5 +1,3 @@
-![Header](https://github.com/vviguerashd/vviguerashd/assets/61100317/e5b03f91-662b-4e8b-a65c-d4dc1dc1530f)
-
 # Hola hola, soy vico 🫶🏾
 
 Soy un entusiasta de la educación en tecnología, con una sólida trayectoria en la enseñanza de conceptos de computación y programación a principiantes. Aunque soy relativamente nuevo en el desarrollo de software, mi pasión por el aprendizaje constante y el liderazgo de cambio me llevan a explorar este emocionante campo.
