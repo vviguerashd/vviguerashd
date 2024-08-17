@@ -1,6 +1,6 @@
 # Hola hola, soy vico 🫶🏾
 
-Soy un entusiasta de la educación en tecnología, con una sólida trayectoria en la enseñanza de conceptos de computación y programación a principiantes. Aunque soy relativamente nuevo en el desarrollo de software, mi pasión por el aprendizaje constante y el liderazgo de cambio me llevan a explorar este emocionante campo.
+Soy un entusiasta de la educación en tecnología. Tengo pasión por el aprendizaje constante y el liderazgo de cambio me llevan a explorar este emocionante campo.
 
 ## ¿Qué me motiva? 🔭
 Aprender más cada día y utilizar ese conocimiento para inspirar y educar a otros. Creo firmemente en el poder de la educación para transformar vidas y estoy dedicado a hacer una diferencia positiva a través de ella.
@@ -16,16 +16,12 @@ Me atraen los proyectos educativos y tecnológicos que buscan hacer del aprendiz
   [Check out my progress!](https://www.codedex.io/@vicvigueras/30-nites-of-code)  
   ![@vicvigueras #30NitesOfCode](https://www.codedex.io/api/petStatus?user=vicvigueras)
 <!--
-**vviguerashd/vviguerashd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working as sensei at DEV.F
+- 🌱 I’m currently learning about IA
+- 👯 I’m looking to collaborate on education projects
+- 🤔 I’m looking for help with personal branding
+- 💬 Ask me about my border collie
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+//-->
