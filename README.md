@@ -1,16 +1,20 @@
-# Hola hola, soy vico 🫶🏾
+# Hola hola, soy vico 🤠
 
-Soy un entusiasta de la educación en tecnología. Tengo pasión por el aprendizaje constante y el liderazgo de cambio me llevan a explorar este emocionante campo.
+Profesor de tecnología y web developer. Trabajo con HTML, CSS y JavaScript, y me estoy especializando en accesibilidad web. 
 
-## ¿Qué me motiva? 🔭
-Aprender más cada día y utilizar ese conocimiento para inspirar y educar a otros. Creo firmemente en el poder de la educación para transformar vidas y estoy dedicado a hacer una diferencia positiva a través de ella.
+Aprendiz constante, cada clase y auditoría me enseña algo nuevo.
 
-## Intereses 🌱
-Me atraen los proyectos educativos y tecnológicos que buscan hacer del aprendizaje algo divertido y accesible. Si tienes ideas o proyectos en esta línea, ¡me encantaría colaborar contigo!
+En este perfil encuentras proyectos propios, metodología de trabajo y experimentos en frontend.
+
+## EN
+
+Technology educator and web developer. I work with HTML, CSS, and JavaScript, and I'm specializing in web accessibility. 
+
+Constant learner, every class and audit teaches me something new.
+
+In this profile you'll find audit projects, working methodology, and frontend experiments.
 
 [💼 linkedin](https://www.linkedin.com/in/vic-vigueras/)
-
-[💻 Perfil de DEV.F](https://edu.devf.la/public/vico-vigueras-018bd1870)
 
 <!--
 - 🔭 I’m currently working as sensei at DEV.F
